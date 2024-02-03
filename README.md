@@ -1,7 +1,7 @@
-[Survey #1](https://forms.gle/UVdvcF2cTZaNHBUP9)
-[Survey #2]()
-[Survey #3]()
-[Survey #4]()
+[Survey #1](https://forms.gle/UVdvcF2cTZaNHBUP9)  
+[Survey #2](https://forms.gle/YmCjnzedxULdomRj8)  
+[Survey #3](https://forms.gle/xeDkCDdbYb689NJUA)  
+[Survey #4](https://forms.gle/HJnDkkegzxgnxjEEA)  
 
 # 2024 AI Survey
 
